@@ -1,1 +1,8 @@
 .DS_Store
+_data/.DS_Store
+_include/.DS_Store
+_layouts/.DS_Store
+_sass/.DS_Store
+assets/.DS_Store
+docs/.DS_Store
+test/.DS_Store
